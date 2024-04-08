@@ -1,0 +1,48 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Roomy/Desktop/MyProjectRPG1/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/Roomy/Desktop/MyProjectRPG1/Content/ThirdPerson/Input/Actions/IA_Crouched.uasset",
+				"C:/Users/Roomy/Desktop/MyProjectRPG1/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/Roomy/Desktop/MyProjectRPG1/Content/Characters/rpg_character/Animations/Crouched/Crouh_Walk.uasset",
+				"C:/Users/Roomy/Desktop/MyProjectRPG1/Content/Characters/rpg_character/Animations/Crouched/Crouch_Idle.uasset",
+				"C:/Users/Roomy/Desktop/MyProjectRPG1/Content/Characters/rpg_character/Animations/Crouched/CrouchedBlendSpace.uasset",
+				"C:/Users/Roomy/Desktop/MyProjectRPG1/Content/Characters/rpg_character/Animations/Locomotion/Idle_Break.uasset",
+				"C:/Users/Roomy/Desktop/MyProjectRPG1/Content/Characters/rpg_character/Animations/Locomotion/Walk_Stop.uasset",
+				"C:/Users/Roomy/Desktop/MyProjectRPG1/Content/Characters/rpg_character/Animations/Locomotion/LocomotionBlendSpace.uasset",
+				"C:/Users/Roomy/Desktop/MyProjectRPG1/Content/Characters/rpg_character/Animations/Leen/Leen_Right.uasset",
+				"C:/Users/Roomy/Desktop/MyProjectRPG1/Content/Characters/rpg_character/Animations/Leen/Leen_Left.uasset",
+				"C:/Users/Roomy/Desktop/MyProjectRPG1/Content/Characters/rpg_character/Animations/Leen/LeenBlendScape.uasset",
+				"C:/Users/Roomy/Desktop/MyProjectRPG1/Content/Characters/Mannequins/Materials/Instances/Manny/Manny_Blue2.uasset",
+				"C:/Users/Roomy/Desktop/MyProjectRPG1/Content/Characters/Mannequins/Materials/Instances/Manny/Manny_Blue1.uasset",
+				"C:/Users/Roomy/Desktop/MyProjectRPG1/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Roomy/Desktop/MyProjectRPG1/Content/Characters/rpg_character/Animations/Vaulting/VaultOver.uasset",
+				"C:/Users/Roomy/Desktop/MyProjectRPG1/Content/Characters/rpg_character/Animations/Vaulting/VaultOver_Montage.uasset",
+				"C:/Users/Roomy/Desktop/MyProjectRPG1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset",
+				"C:/Users/Roomy/Desktop/MyProjectRPG1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/JT/0HWYWU50U8IDJRTMZ0DOG5.uasset",
+				"C:/Users/Roomy/Desktop/MyProjectRPG1/Content/Characters/rpg_character/Animations/Assassination/UE4/Paired_Knife_Stealth_KidneyAndNeck_Vic.uasset",
+				"C:/Users/Roomy/Desktop/MyProjectRPG1/Content/Characters/rpg_character/Animations/Assassination/UE4/Paired_Knife_Stealth_KidneyAndNeck_Att.uasset",
+				"C:/Users/Roomy/Desktop/MyProjectRPG1/Content/Characters/rpg_character/Animations/Assassination/Assassination_Attack.uasset",
+				"C:/Users/Roomy/Desktop/MyProjectRPG1/Content/ThirdPerson/Input/Actions/IA_Assassination.uasset",
+				"C:/Users/Roomy/Desktop/MyProjectRPG1/Content/ThirdPerson/Input/Actions/IA_Vault.uasset",
+				"C:/Users/Roomy/Desktop/MyProjectRPG1/Content/Characters/rpg_character/Animations/Assassination/Paired_Knife_Stealth_KidneyAndNeck_Att.uasset",
+				"C:/Users/Roomy/Desktop/MyProjectRPG1/Content/Characters/rpg_character/Animations/Assassination/Paired_Knife_Stealth_KidneyAndNeck_Vic.uasset",
+				"C:/Users/Roomy/Desktop/MyProjectRPG1/Content/BP/BP_Dummy.uasset",
+				"C:/Users/Roomy/Desktop/MyProjectRPG1/Content/Characters/rpg_character/Animations/Assassination/Assassination-Victim.uasset",
+				"C:/Users/Roomy/Desktop/MyProjectRPG1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/DZ/SHCOJUQ6CBLM41ZIV40Q37.uasset",
+				"C:/Users/Roomy/Desktop/MyProjectRPG1/Content/BP/BPI_Assassination.uasset",
+				"C:/Users/Roomy/Desktop/MyProjectRPG1/Content/Characters/rpg_character/Animations/Assassination/Assassination_Victim.uasset",
+				"C:/Users/Roomy/Desktop/MyProjectRPG1/Content/Characters/rpg_character/Crouched/Crouch_Idle.uasset",
+				"C:/Users/Roomy/Desktop/MyProjectRPG1/Content/Characters/rpg_character/Crouched/Crouh_Walk.uasset",
+				"C:/Users/Roomy/Desktop/MyProjectRPG1/Content/Characters/rpg_character/Locomotion/Idle_Break.uasset",
+				"C:/Users/Roomy/Desktop/MyProjectRPG1/Content/Characters/rpg_character/Locomotion/Walk_Stop.uasset",
+				"C:/Users/Roomy/Desktop/MyProjectRPG1/Content/Characters/rpg_character/Locomotion/LocomotionBlendSpace.uasset",
+				"C:/Users/Roomy/Desktop/MyProjectRPG1/Content/Characters/Mannequins/Materials/Instances/Manny/Manny_Blue.uasset"
+			]
+		}
+	]
+}
